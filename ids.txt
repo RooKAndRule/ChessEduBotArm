@@ -1,0 +1,2 @@
+ID:1, Name:yassin, Age:20, Level:Intermediate, cluster:-1, last_clustering:2024-12-14 13:59:10
+ID:2, Name:meryem, Age:20, Level:Beginner, cluster:-1, last_clustering:2024-12-14 14:14:44
